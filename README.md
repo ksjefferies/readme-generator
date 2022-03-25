@@ -23,7 +23,9 @@ In this project, I did the following:
 ## ReadMe Generator image and video:
 
 ![Screenshot starting application and questions](./assets/images/readme-generator-input.png)
-![Video of starting application, inputting data, and seeing results](https://drive.google.com/file/d/1b0nRqulvftn53W5Jgbx4t6BI1RB_o3xY/view?usp=sharing)
+
+
+[Video of starting application, inputting data, and seeing results](https://drive.google.com/file/d/1b0nRqulvftn53W5Jgbx4t6BI1RB_o3xY/view?usp=sharing)
 
 -----
 ## Link for Github Repository:
