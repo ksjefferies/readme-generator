@@ -106,7 +106,7 @@ ${input.test}
 ## Questions
 
  - How can I reach the projects owner. 
-Maintainer Github: [${input.github}](https://githib.com/${input.github})
+Maintainer Github: [${input.github}](https://github.com/${input.github})
 Email: [${input.email}](mailto:${input.email})
 `
 }
