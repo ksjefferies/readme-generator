@@ -97,10 +97,10 @@ ${input.usageInformation}
 ## License
 This project is licensed with [${input.license.name}](${input.license.html_url}). ${input.license.description}
 
-## Contributing
+## Contributors
 ${input.contributors}
 
-## Tests
+## Test Instructions
 ${input.test}
 
 ## Questions

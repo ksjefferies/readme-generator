@@ -24,10 +24,10 @@ At the terminal enter ‘node index.js’ and answer all the questions.  The REA
 ## License
 This project is licensed with [MIT License](http://choosealicense.com/licenses/mit/). A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-## Contributing
+## Contributors
 For any improvements or bugs, please open a pull request or issue on GitHub
 
-## Tests
+## Test Instructions
 This is the test instructions area
 
 ## Questions
