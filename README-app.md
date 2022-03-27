@@ -33,5 +33,5 @@ This is the test instructions area
 ## Questions
 
  - How can I reach the projects owner. 
-Maintainer Github: [Ksjefferies](https://githib.com/Ksjefferies)
+Maintainer Github: [Ksjefferies](https://github.com/Ksjefferies)
 Email: [someone@gmail.com](mailto:someone@gmail.com)
